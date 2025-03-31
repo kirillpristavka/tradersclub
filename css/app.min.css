@@ -214,12 +214,12 @@ a:hover {
   width: 100%;
   max-width: 1920px;
 }
-@media (min-height: 800px) and (min-width: 1000px) {
+@media (min-height: 800px) and (min-width: 1001px) {
   .image-container .menu-content .menu-text {
     width: 25%;
   }
 }
-@media (max-width: 1680px) and (min-height: 800px) and (min-width: 1000px) {
+@media (max-width: 1680px) and (min-height: 800px) and (min-width: 1001px) {
   .image-container .menu-content .menu-text {
     width: 20% !important;
   }
